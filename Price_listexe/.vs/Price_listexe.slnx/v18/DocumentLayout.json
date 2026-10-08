@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\Price_listexe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6849A4-73CF-4E65-9865-75958D0D9E35}|Price_listexe\\Price_listexe.csproj|d:\\c#games\\price_listexe\\price_listexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6849A4-73CF-4E65-9865-75958D0D9E35}|Price_listexe\\Price_listexe.csproj|solutionrelative:price_listexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6849A4-73CF-4E65-9865-75958D0D9E35}|Price_listexe\\Price_listexe.csproj|d:\\c#games\\price_listexe\\price_listexe\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6849A4-73CF-4E65-9865-75958D0D9E35}|Price_listexe\\Price_listexe.csproj|solutionrelative:price_listexe\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Price.cs",
+              "DocumentMoniker": "D:\\c#games\\Price_listexe\\Price_listexe\\Price.cs",
+              "RelativeDocumentMoniker": "Price_listexe\\Price.cs",
+              "ToolTip": "D:\\c#games\\Price_listexe\\Price_listexe\\Price.cs",
+              "RelativeToolTip": "Price_listexe\\Price.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T08:47:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\Price_listexe\\Price_listexe\\Program.cs",
+              "RelativeDocumentMoniker": "Price_listexe\\Program.cs",
+              "ToolTip": "D:\\c#games\\Price_listexe\\Price_listexe\\Program.cs",
+              "RelativeToolTip": "Price_listexe\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T08:46:48.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

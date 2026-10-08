@@ -1,0 +1,7 @@
+D:\c#games\TEST_practice\TEST_practice\bin\Debug\TEST_practice.exe.config
+D:\c#games\TEST_practice\TEST_practice\bin\Debug\TEST_practice.exe
+D:\c#games\TEST_practice\TEST_practice\bin\Debug\TEST_practice.pdb
+D:\c#games\TEST_practice\TEST_practice\obj\Debug\TEST_practice.csproj.AssemblyReference.cache
+D:\c#games\TEST_practice\TEST_practice\obj\Debug\TEST_practice.csproj.CoreCompileInputs.cache
+D:\c#games\TEST_practice\TEST_practice\obj\Debug\TEST_practice.exe
+D:\c#games\TEST_practice\TEST_practice\obj\Debug\TEST_practice.pdb

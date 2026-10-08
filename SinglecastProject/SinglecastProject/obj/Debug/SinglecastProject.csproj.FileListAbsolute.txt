@@ -1,0 +1,7 @@
+D:\c#games\SinglecastProject\SinglecastProject\bin\Debug\SinglecastProject.exe.config
+D:\c#games\SinglecastProject\SinglecastProject\bin\Debug\SinglecastProject.exe
+D:\c#games\SinglecastProject\SinglecastProject\bin\Debug\SinglecastProject.pdb
+D:\c#games\SinglecastProject\SinglecastProject\obj\Debug\SinglecastProject.csproj.AssemblyReference.cache
+D:\c#games\SinglecastProject\SinglecastProject\obj\Debug\SinglecastProject.csproj.CoreCompileInputs.cache
+D:\c#games\SinglecastProject\SinglecastProject\obj\Debug\SinglecastProject.exe
+D:\c#games\SinglecastProject\SinglecastProject\obj\Debug\SinglecastProject.pdb

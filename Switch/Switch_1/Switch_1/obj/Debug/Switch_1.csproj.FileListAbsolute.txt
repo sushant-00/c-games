@@ -1,0 +1,7 @@
+D:\c#games\Switch\Switch_1\Switch_1\bin\Debug\Switch_1.exe.config
+D:\c#games\Switch\Switch_1\Switch_1\bin\Debug\Switch_1.exe
+D:\c#games\Switch\Switch_1\Switch_1\bin\Debug\Switch_1.pdb
+D:\c#games\Switch\Switch_1\Switch_1\obj\Debug\Switch_1.csproj.AssemblyReference.cache
+D:\c#games\Switch\Switch_1\Switch_1\obj\Debug\Switch_1.csproj.CoreCompileInputs.cache
+D:\c#games\Switch\Switch_1\Switch_1\obj\Debug\Switch_1.exe
+D:\c#games\Switch\Switch_1\Switch_1\obj\Debug\Switch_1.pdb

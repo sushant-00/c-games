@@ -1,0 +1,7 @@
+D:\c#games\Dictexample\Dictexample\bin\Debug\Dictexample.exe.config
+D:\c#games\Dictexample\Dictexample\bin\Debug\Dictexample.exe
+D:\c#games\Dictexample\Dictexample\bin\Debug\Dictexample.pdb
+D:\c#games\Dictexample\Dictexample\obj\Debug\Dictexample.csproj.AssemblyReference.cache
+D:\c#games\Dictexample\Dictexample\obj\Debug\Dictexample.csproj.CoreCompileInputs.cache
+D:\c#games\Dictexample\Dictexample\obj\Debug\Dictexample.exe
+D:\c#games\Dictexample\Dictexample\obj\Debug\Dictexample.pdb

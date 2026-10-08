@@ -1,0 +1,7 @@
+D:\c#games\HashTABLeexample\HashTABLeexample\bin\Debug\HashTABLeexample.exe.config
+D:\c#games\HashTABLeexample\HashTABLeexample\bin\Debug\HashTABLeexample.exe
+D:\c#games\HashTABLeexample\HashTABLeexample\bin\Debug\HashTABLeexample.pdb
+D:\c#games\HashTABLeexample\HashTABLeexample\obj\Debug\HashTABLeexample.csproj.AssemblyReference.cache
+D:\c#games\HashTABLeexample\HashTABLeexample\obj\Debug\HashTABLeexample.csproj.CoreCompileInputs.cache
+D:\c#games\HashTABLeexample\HashTABLeexample\obj\Debug\HashTABLeexample.exe
+D:\c#games\HashTABLeexample\HashTABLeexample\obj\Debug\HashTABLeexample.pdb

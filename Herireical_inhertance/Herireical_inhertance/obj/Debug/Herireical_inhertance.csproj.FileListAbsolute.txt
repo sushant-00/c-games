@@ -1,0 +1,7 @@
+D:\c#games\Herireical_inhertance\Herireical_inhertance\bin\Debug\Herireical_inhertance.exe.config
+D:\c#games\Herireical_inhertance\Herireical_inhertance\bin\Debug\Herireical_inhertance.exe
+D:\c#games\Herireical_inhertance\Herireical_inhertance\bin\Debug\Herireical_inhertance.pdb
+D:\c#games\Herireical_inhertance\Herireical_inhertance\obj\Debug\Herireical_inhertance.csproj.AssemblyReference.cache
+D:\c#games\Herireical_inhertance\Herireical_inhertance\obj\Debug\Herireical_inhertance.csproj.CoreCompileInputs.cache
+D:\c#games\Herireical_inhertance\Herireical_inhertance\obj\Debug\Herireical_inhertance.exe
+D:\c#games\Herireical_inhertance\Herireical_inhertance\obj\Debug\Herireical_inhertance.pdb

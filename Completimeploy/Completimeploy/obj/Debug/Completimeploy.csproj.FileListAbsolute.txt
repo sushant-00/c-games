@@ -1,0 +1,7 @@
+D:\c#games\Completimeploy\Completimeploy\bin\Debug\Completimeploy.exe.config
+D:\c#games\Completimeploy\Completimeploy\bin\Debug\Completimeploy.exe
+D:\c#games\Completimeploy\Completimeploy\bin\Debug\Completimeploy.pdb
+D:\c#games\Completimeploy\Completimeploy\obj\Debug\Completimeploy.csproj.AssemblyReference.cache
+D:\c#games\Completimeploy\Completimeploy\obj\Debug\Completimeploy.csproj.CoreCompileInputs.cache
+D:\c#games\Completimeploy\Completimeploy\obj\Debug\Completimeploy.exe
+D:\c#games\Completimeploy\Completimeploy\obj\Debug\Completimeploy.pdb

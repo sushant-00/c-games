@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\exception_handling2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133FB3F1-8D39-48A9-8BB7-DFABCA03B41C}|exception_handling2\\exception_handling2.csproj|d:\\c#games\\exception_handling2\\exception_handling2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133FB3F1-8D39-48A9-8BB7-DFABCA03B41C}|exception_handling2\\exception_handling2.csproj|solutionrelative:exception_handling2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\exception_handling2\\exception_handling2\\Program.cs",
+              "RelativeDocumentMoniker": "exception_handling2\\Program.cs",
+              "ToolTip": "D:\\c#games\\exception_handling2\\exception_handling2\\Program.cs",
+              "RelativeToolTip": "exception_handling2\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T04:23:44.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\c#games\For_Lopp\For_Lopp\bin\Debug\For_Lopp.exe.config
+D:\c#games\For_Lopp\For_Lopp\bin\Debug\For_Lopp.exe
+D:\c#games\For_Lopp\For_Lopp\bin\Debug\For_Lopp.pdb
+D:\c#games\For_Lopp\For_Lopp\obj\Debug\For_Lopp.csproj.AssemblyReference.cache
+D:\c#games\For_Lopp\For_Lopp\obj\Debug\For_Lopp.csproj.CoreCompileInputs.cache
+D:\c#games\For_Lopp\For_Lopp\obj\Debug\For_Lopp.exe
+D:\c#games\For_Lopp\For_Lopp\obj\Debug\For_Lopp.pdb

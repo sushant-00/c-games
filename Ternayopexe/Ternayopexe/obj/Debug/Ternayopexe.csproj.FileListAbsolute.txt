@@ -1,0 +1,7 @@
+D:\c#games\Ternayopexe\Ternayopexe\bin\Debug\Ternayopexe.exe.config
+D:\c#games\Ternayopexe\Ternayopexe\bin\Debug\Ternayopexe.exe
+D:\c#games\Ternayopexe\Ternayopexe\bin\Debug\Ternayopexe.pdb
+D:\c#games\Ternayopexe\Ternayopexe\obj\Debug\Ternayopexe.csproj.AssemblyReference.cache
+D:\c#games\Ternayopexe\Ternayopexe\obj\Debug\Ternayopexe.csproj.CoreCompileInputs.cache
+D:\c#games\Ternayopexe\Ternayopexe\obj\Debug\Ternayopexe.exe
+D:\c#games\Ternayopexe\Ternayopexe\obj\Debug\Ternayopexe.pdb

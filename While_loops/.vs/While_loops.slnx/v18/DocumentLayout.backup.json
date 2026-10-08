@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\While_loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF49604-B77C-421D-BEDC-325E56B7E3DF}|While_loops\\While_loops.csproj|d:\\c#games\\while_loops\\while_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF49604-B77C-421D-BEDC-325E56B7E3DF}|While_loops\\While_loops.csproj|solutionrelative:while_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\While_loops\\While_loops\\Program.cs",
+              "RelativeDocumentMoniker": "While_loops\\Program.cs",
+              "ToolTip": "D:\\c#games\\While_loops\\While_loops\\Program.cs*",
+              "RelativeToolTip": "While_loops\\Program.cs*",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwHMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T01:53:46.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

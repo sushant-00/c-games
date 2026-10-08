@@ -1,0 +1,7 @@
+D:\c#games\Inheritance_single\Inheritance_single\bin\Debug\Inheritance_single.exe.config
+D:\c#games\Inheritance_single\Inheritance_single\bin\Debug\Inheritance_single.exe
+D:\c#games\Inheritance_single\Inheritance_single\bin\Debug\Inheritance_single.pdb
+D:\c#games\Inheritance_single\Inheritance_single\obj\Debug\Inheritance_single.csproj.AssemblyReference.cache
+D:\c#games\Inheritance_single\Inheritance_single\obj\Debug\Inheritance_single.csproj.CoreCompileInputs.cache
+D:\c#games\Inheritance_single\Inheritance_single\obj\Debug\Inheritance_single.exe
+D:\c#games\Inheritance_single\Inheritance_single\obj\Debug\Inheritance_single.pdb

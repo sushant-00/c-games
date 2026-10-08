@@ -1,0 +1,7 @@
+D:\c#games\Filehandling_3\Filehandling_3\bin\Debug\Filehandling_3.exe.config
+D:\c#games\Filehandling_3\Filehandling_3\bin\Debug\Filehandling_3.exe
+D:\c#games\Filehandling_3\Filehandling_3\bin\Debug\Filehandling_3.pdb
+D:\c#games\Filehandling_3\Filehandling_3\obj\Debug\Filehandling_3.csproj.AssemblyReference.cache
+D:\c#games\Filehandling_3\Filehandling_3\obj\Debug\Filehandling_3.csproj.CoreCompileInputs.cache
+D:\c#games\Filehandling_3\Filehandling_3\obj\Debug\Filehandling_3.exe
+D:\c#games\Filehandling_3\Filehandling_3\obj\Debug\Filehandling_3.pdb

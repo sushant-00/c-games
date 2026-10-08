@@ -1,0 +1,7 @@
+D:\c#games\Account_holde\Account_holde\obj\Debug\Account_holde.csproj.AssemblyReference.cache
+D:\c#games\Account_holde\Account_holde\obj\Debug\Account_holde.csproj.CoreCompileInputs.cache
+D:\c#games\Account_holde\Account_holde\bin\Debug\Account_holde.exe.config
+D:\c#games\Account_holde\Account_holde\bin\Debug\Account_holde.exe
+D:\c#games\Account_holde\Account_holde\bin\Debug\Account_holde.pdb
+D:\c#games\Account_holde\Account_holde\obj\Debug\Account_holde.exe
+D:\c#games\Account_holde\Account_holde\obj\Debug\Account_holde.pdb

@@ -1,0 +1,7 @@
+D:\c#games\largest_num\largest_num\bin\Debug\largest_num.exe.config
+D:\c#games\largest_num\largest_num\bin\Debug\largest_num.exe
+D:\c#games\largest_num\largest_num\bin\Debug\largest_num.pdb
+D:\c#games\largest_num\largest_num\obj\Debug\largest_num.csproj.AssemblyReference.cache
+D:\c#games\largest_num\largest_num\obj\Debug\largest_num.csproj.CoreCompileInputs.cache
+D:\c#games\largest_num\largest_num\obj\Debug\largest_num.exe
+D:\c#games\largest_num\largest_num\obj\Debug\largest_num.pdb

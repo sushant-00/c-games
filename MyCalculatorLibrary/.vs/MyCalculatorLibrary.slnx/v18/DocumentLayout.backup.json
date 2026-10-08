@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\MyCalculatorLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEA5DD3-3ED1-4899-BD1B-1C21F0EEE9EA}|MyCalculatorLibrary\\MyCalculatorLibrary.csproj|d:\\c#games\\mycalculatorlibrary\\mycalculatorlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEA5DD3-3ED1-4899-BD1B-1C21F0EEE9EA}|MyCalculatorLibrary\\MyCalculatorLibrary.csproj|solutionrelative:mycalculatorlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\c#games\\MyCalculatorLibrary\\MyCalculatorLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "MyCalculatorLibrary\\Class1.cs",
+              "ToolTip": "D:\\c#games\\MyCalculatorLibrary\\MyCalculatorLibrary\\Class1.cs*",
+              "RelativeToolTip": "MyCalculatorLibrary\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:56:18.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

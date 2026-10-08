@@ -1,0 +1,7 @@
+D:\c#games\event_handlers\event_handlers\bin\Debug\event_handlers.exe.config
+D:\c#games\event_handlers\event_handlers\bin\Debug\event_handlers.exe
+D:\c#games\event_handlers\event_handlers\bin\Debug\event_handlers.pdb
+D:\c#games\event_handlers\event_handlers\obj\Debug\event_handlers.csproj.AssemblyReference.cache
+D:\c#games\event_handlers\event_handlers\obj\Debug\event_handlers.csproj.CoreCompileInputs.cache
+D:\c#games\event_handlers\event_handlers\obj\Debug\event_handlers.exe
+D:\c#games\event_handlers\event_handlers\obj\Debug\event_handlers.pdb

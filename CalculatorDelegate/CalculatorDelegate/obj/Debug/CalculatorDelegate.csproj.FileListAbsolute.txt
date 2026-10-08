@@ -1,0 +1,7 @@
+D:\c#games\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe.config
+D:\c#games\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe
+D:\c#games\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.pdb
+D:\c#games\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.AssemblyReference.cache
+D:\c#games\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.CoreCompileInputs.cache
+D:\c#games\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.exe
+D:\c#games\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.pdb

@@ -1,0 +1,7 @@
+D:\c#games\Desison_making\Desison_making\bin\Debug\Desison_making.exe.config
+D:\c#games\Desison_making\Desison_making\bin\Debug\Desison_making.exe
+D:\c#games\Desison_making\Desison_making\bin\Debug\Desison_making.pdb
+D:\c#games\Desison_making\Desison_making\obj\Debug\Desison_making.csproj.AssemblyReference.cache
+D:\c#games\Desison_making\Desison_making\obj\Debug\Desison_making.csproj.CoreCompileInputs.cache
+D:\c#games\Desison_making\Desison_making\obj\Debug\Desison_making.exe
+D:\c#games\Desison_making\Desison_making\obj\Debug\Desison_making.pdb

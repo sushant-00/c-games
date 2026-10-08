@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\TEST_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46365A70-A58D-42F4-B56F-9C9B81BF3762}|TEST_practice\\TEST_practice.csproj|d:\\c#games\\test_practice\\test_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46365A70-A58D-42F4-B56F-9C9B81BF3762}|TEST_practice\\TEST_practice.csproj|solutionrelative:test_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46365A70-A58D-42F4-B56F-9C9B81BF3762}|TEST_practice\\TEST_practice.csproj|d:\\c#games\\test_practice\\test_practice\\exception_handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46365A70-A58D-42F4-B56F-9C9B81BF3762}|TEST_practice\\TEST_practice.csproj|solutionrelative:test_practice\\exception_handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46365A70-A58D-42F4-B56F-9C9B81BF3762}|TEST_practice\\TEST_practice.csproj|d:\\c#games\\test_practice\\test_practice\\badclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46365A70-A58D-42F4-B56F-9C9B81BF3762}|TEST_practice\\TEST_practice.csproj|solutionrelative:test_practice\\badclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exception_handle.cs",
+              "DocumentMoniker": "D:\\c#games\\TEST_practice\\TEST_practice\\exception_handle.cs",
+              "RelativeDocumentMoniker": "TEST_practice\\exception_handle.cs",
+              "ToolTip": "D:\\c#games\\TEST_practice\\TEST_practice\\exception_handle.cs",
+              "RelativeToolTip": "TEST_practice\\exception_handle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:23:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Badclass.cs",
+              "DocumentMoniker": "D:\\c#games\\TEST_practice\\TEST_practice\\Badclass.cs",
+              "RelativeDocumentMoniker": "TEST_practice\\Badclass.cs",
+              "ToolTip": "D:\\c#games\\TEST_practice\\TEST_practice\\Badclass.cs",
+              "RelativeToolTip": "TEST_practice\\Badclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T04:52:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\TEST_practice\\TEST_practice\\Program.cs",
+              "RelativeDocumentMoniker": "TEST_practice\\Program.cs",
+              "ToolTip": "D:\\c#games\\TEST_practice\\TEST_practice\\Program.cs*",
+              "RelativeToolTip": "TEST_practice\\Program.cs*",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:58:18.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

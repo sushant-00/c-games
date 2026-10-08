@@ -1,0 +1,14 @@
+D:\c#games\Reverse_array\Reverse_array\bin\Debug\net10.0\Reverse_array.exe
+D:\c#games\Reverse_array\Reverse_array\bin\Debug\net10.0\Reverse_array.deps.json
+D:\c#games\Reverse_array\Reverse_array\bin\Debug\net10.0\Reverse_array.runtimeconfig.json
+D:\c#games\Reverse_array\Reverse_array\bin\Debug\net10.0\Reverse_array.dll
+D:\c#games\Reverse_array\Reverse_array\bin\Debug\net10.0\Reverse_array.pdb
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\Reverse_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\Reverse_array.AssemblyInfoInputs.cache
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\Reverse_array.AssemblyInfo.cs
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\Reverse_array.csproj.CoreCompileInputs.cache
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\Reverse_array.dll
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\refint\Reverse_array.dll
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\Reverse_array.pdb
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\Reverse_array.genruntimeconfig.cache
+D:\c#games\Reverse_array\Reverse_array\obj\Debug\net10.0\ref\Reverse_array.dll

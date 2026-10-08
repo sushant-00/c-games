@@ -1,0 +1,7 @@
+D:\c#games\operators_all\operators_all\bin\Debug\operators_all.exe.config
+D:\c#games\operators_all\operators_all\bin\Debug\operators_all.exe
+D:\c#games\operators_all\operators_all\bin\Debug\operators_all.pdb
+D:\c#games\operators_all\operators_all\obj\Debug\operators_all.csproj.AssemblyReference.cache
+D:\c#games\operators_all\operators_all\obj\Debug\operators_all.csproj.CoreCompileInputs.cache
+D:\c#games\operators_all\operators_all\obj\Debug\operators_all.exe
+D:\c#games\operators_all\operators_all\obj\Debug\operators_all.pdb

@@ -1,0 +1,7 @@
+D:\c#games\Multilevel_inhertance\Multilevel_inhertance\bin\Debug\Multilevel_inhertance.exe.config
+D:\c#games\Multilevel_inhertance\Multilevel_inhertance\bin\Debug\Multilevel_inhertance.exe
+D:\c#games\Multilevel_inhertance\Multilevel_inhertance\bin\Debug\Multilevel_inhertance.pdb
+D:\c#games\Multilevel_inhertance\Multilevel_inhertance\obj\Debug\Multilevel_inhertance.csproj.AssemblyReference.cache
+D:\c#games\Multilevel_inhertance\Multilevel_inhertance\obj\Debug\Multilevel_inhertance.csproj.CoreCompileInputs.cache
+D:\c#games\Multilevel_inhertance\Multilevel_inhertance\obj\Debug\Multilevel_inhertance.exe
+D:\c#games\Multilevel_inhertance\Multilevel_inhertance\obj\Debug\Multilevel_inhertance.pdb

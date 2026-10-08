@@ -1,0 +1,7 @@
+D:\c#games\mclass\bin\Debug\mclass.exe.config
+D:\c#games\mclass\bin\Debug\mclass.exe
+D:\c#games\mclass\bin\Debug\mclass.pdb
+D:\c#games\mclass\obj\Debug\mclass.csproj.AssemblyReference.cache
+D:\c#games\mclass\obj\Debug\mclass.csproj.CoreCompileInputs.cache
+D:\c#games\mclass\obj\Debug\mclass.exe
+D:\c#games\mclass\obj\Debug\mclass.pdb

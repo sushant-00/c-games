@@ -1,0 +1,10 @@
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\bin\Debug\Use_of_dll_calculator.exe.config
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\bin\Debug\Use_of_dll_calculator.exe
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\bin\Debug\Use_of_dll_calculator.pdb
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\bin\Debug\MyCalculatorLibrary.dll
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\bin\Debug\MyCalculatorLibrary.pdb
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\obj\Debug\Use_of_dll_calculator.csproj.AssemblyReference.cache
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\obj\Debug\Use_of_dll_calculator.csproj.CoreCompileInputs.cache
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\obj\Debug\Use_of_d.F0700FD0.Up2Date
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\obj\Debug\Use_of_dll_calculator.exe
+D:\c#games\Use_of_dll_calculator\Use_of_dll_calculator\obj\Debug\Use_of_dll_calculator.pdb

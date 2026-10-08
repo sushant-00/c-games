@@ -1,0 +1,14 @@
+D:\c#games\Descending_arraysort\Descending_arraysort\bin\Debug\net10.0\Descending_arraysort.exe
+D:\c#games\Descending_arraysort\Descending_arraysort\bin\Debug\net10.0\Descending_arraysort.deps.json
+D:\c#games\Descending_arraysort\Descending_arraysort\bin\Debug\net10.0\Descending_arraysort.runtimeconfig.json
+D:\c#games\Descending_arraysort\Descending_arraysort\bin\Debug\net10.0\Descending_arraysort.dll
+D:\c#games\Descending_arraysort\Descending_arraysort\bin\Debug\net10.0\Descending_arraysort.pdb
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\Descending_arraysort.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\Descending_arraysort.AssemblyInfoInputs.cache
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\Descending_arraysort.AssemblyInfo.cs
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\Descending_arraysort.csproj.CoreCompileInputs.cache
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\Descending_arraysort.dll
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\refint\Descending_arraysort.dll
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\Descending_arraysort.pdb
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\Descending_arraysort.genruntimeconfig.cache
+D:\c#games\Descending_arraysort\Descending_arraysort\obj\Debug\net10.0\ref\Descending_arraysort.dll

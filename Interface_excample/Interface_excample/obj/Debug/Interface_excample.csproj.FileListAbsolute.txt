@@ -1,0 +1,7 @@
+D:\c#games\Interface_excample\Interface_excample\bin\Debug\Interface_excample.exe.config
+D:\c#games\Interface_excample\Interface_excample\bin\Debug\Interface_excample.exe
+D:\c#games\Interface_excample\Interface_excample\bin\Debug\Interface_excample.pdb
+D:\c#games\Interface_excample\Interface_excample\obj\Debug\Interface_excample.csproj.AssemblyReference.cache
+D:\c#games\Interface_excample\Interface_excample\obj\Debug\Interface_excample.csproj.CoreCompileInputs.cache
+D:\c#games\Interface_excample\Interface_excample\obj\Debug\Interface_excample.exe
+D:\c#games\Interface_excample\Interface_excample\obj\Debug\Interface_excample.pdb

@@ -1,0 +1,7 @@
+D:\c#games\CopyConsexample1\bin\Debug\CopyConsexample1.exe.config
+D:\c#games\CopyConsexample1\bin\Debug\CopyConsexample1.exe
+D:\c#games\CopyConsexample1\bin\Debug\CopyConsexample1.pdb
+D:\c#games\CopyConsexample1\obj\Debug\CopyConsexample1.csproj.AssemblyReference.cache
+D:\c#games\CopyConsexample1\obj\Debug\CopyConsexample1.csproj.CoreCompileInputs.cache
+D:\c#games\CopyConsexample1\obj\Debug\CopyConsexample1.exe
+D:\c#games\CopyConsexample1\obj\Debug\CopyConsexample1.pdb

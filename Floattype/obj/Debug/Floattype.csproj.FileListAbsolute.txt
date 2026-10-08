@@ -1,0 +1,7 @@
+D:\c#games\Floattype\bin\Debug\Floattype.exe.config
+D:\c#games\Floattype\bin\Debug\Floattype.exe
+D:\c#games\Floattype\bin\Debug\Floattype.pdb
+D:\c#games\Floattype\obj\Debug\Floattype.csproj.AssemblyReference.cache
+D:\c#games\Floattype\obj\Debug\Floattype.csproj.CoreCompileInputs.cache
+D:\c#games\Floattype\obj\Debug\Floattype.exe
+D:\c#games\Floattype\obj\Debug\Floattype.pdb

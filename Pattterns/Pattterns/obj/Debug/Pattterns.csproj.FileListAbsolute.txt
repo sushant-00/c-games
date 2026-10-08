@@ -1,0 +1,7 @@
+D:\c#games\Pattterns\Pattterns\bin\Debug\Pattterns.exe.config
+D:\c#games\Pattterns\Pattterns\bin\Debug\Pattterns.exe
+D:\c#games\Pattterns\Pattterns\bin\Debug\Pattterns.pdb
+D:\c#games\Pattterns\Pattterns\obj\Debug\Pattterns.csproj.AssemblyReference.cache
+D:\c#games\Pattterns\Pattterns\obj\Debug\Pattterns.csproj.CoreCompileInputs.cache
+D:\c#games\Pattterns\Pattterns\obj\Debug\Pattterns.exe
+D:\c#games\Pattterns\Pattterns\obj\Debug\Pattterns.pdb

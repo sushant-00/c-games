@@ -1,0 +1,7 @@
+D:\c#games\CopyConstructorexp\bin\Debug\CopyConstructorexp.exe.config
+D:\c#games\CopyConstructorexp\bin\Debug\CopyConstructorexp.exe
+D:\c#games\CopyConstructorexp\bin\Debug\CopyConstructorexp.pdb
+D:\c#games\CopyConstructorexp\obj\Debug\CopyConstructorexp.csproj.AssemblyReference.cache
+D:\c#games\CopyConstructorexp\obj\Debug\CopyConstructorexp.csproj.CoreCompileInputs.cache
+D:\c#games\CopyConstructorexp\obj\Debug\CopyConstructorexp.exe
+D:\c#games\CopyConstructorexp\obj\Debug\CopyConstructorexp.pdb

@@ -1,0 +1,7 @@
+D:\c#games\Stack_examples\Stack_examples\bin\Debug\Stack_examples.exe.config
+D:\c#games\Stack_examples\Stack_examples\bin\Debug\Stack_examples.exe
+D:\c#games\Stack_examples\Stack_examples\bin\Debug\Stack_examples.pdb
+D:\c#games\Stack_examples\Stack_examples\obj\Debug\Stack_examples.csproj.AssemblyReference.cache
+D:\c#games\Stack_examples\Stack_examples\obj\Debug\Stack_examples.csproj.CoreCompileInputs.cache
+D:\c#games\Stack_examples\Stack_examples\obj\Debug\Stack_examples.exe
+D:\c#games\Stack_examples\Stack_examples\obj\Debug\Stack_examples.pdb

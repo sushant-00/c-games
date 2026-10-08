@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\reverse_string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF8BADC-D6D4-490C-B8E7-9C6956766E38}|reverse_string\\reverse_string.csproj|d:\\c#games\\reverse_string\\reverse_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF8BADC-D6D4-490C-B8E7-9C6956766E38}|reverse_string\\reverse_string.csproj|solutionrelative:reverse_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\reverse_string\\reverse_string\\Program.cs",
+              "RelativeDocumentMoniker": "reverse_string\\Program.cs",
+              "ToolTip": "D:\\c#games\\reverse_string\\reverse_string\\Program.cs*",
+              "RelativeToolTip": "reverse_string\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T07:28:04.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

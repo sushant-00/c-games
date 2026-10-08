@@ -1,0 +1,7 @@
+D:\c#games\Threading_example\Threading_example\bin\Debug\Threading_example.exe.config
+D:\c#games\Threading_example\Threading_example\bin\Debug\Threading_example.exe
+D:\c#games\Threading_example\Threading_example\bin\Debug\Threading_example.pdb
+D:\c#games\Threading_example\Threading_example\obj\Debug\Threading_example.csproj.AssemblyReference.cache
+D:\c#games\Threading_example\Threading_example\obj\Debug\Threading_example.csproj.CoreCompileInputs.cache
+D:\c#games\Threading_example\Threading_example\obj\Debug\Threading_example.exe
+D:\c#games\Threading_example\Threading_example\obj\Debug\Threading_example.pdb

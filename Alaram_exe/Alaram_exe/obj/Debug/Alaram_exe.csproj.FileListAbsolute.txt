@@ -1,0 +1,7 @@
+D:\c#games\Alaram_exe\Alaram_exe\bin\Debug\Alaram_exe.exe.config
+D:\c#games\Alaram_exe\Alaram_exe\bin\Debug\Alaram_exe.exe
+D:\c#games\Alaram_exe\Alaram_exe\bin\Debug\Alaram_exe.pdb
+D:\c#games\Alaram_exe\Alaram_exe\obj\Debug\Alaram_exe.csproj.AssemblyReference.cache
+D:\c#games\Alaram_exe\Alaram_exe\obj\Debug\Alaram_exe.csproj.CoreCompileInputs.cache
+D:\c#games\Alaram_exe\Alaram_exe\obj\Debug\Alaram_exe.exe
+D:\c#games\Alaram_exe\Alaram_exe\obj\Debug\Alaram_exe.pdb

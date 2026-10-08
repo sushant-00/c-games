@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\Use_of_dll_calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6578F841-2124-494F-BBEF-942FD4F0CE56}|Use_of_dll_calculator\\Use_of_dll_calculator.csproj|d:\\c#games\\use_of_dll_calculator\\use_of_dll_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6578F841-2124-494F-BBEF-942FD4F0CE56}|Use_of_dll_calculator\\Use_of_dll_calculator.csproj|solutionrelative:use_of_dll_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\Use_of_dll_calculator\\Use_of_dll_calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Use_of_dll_calculator\\Program.cs",
+              "ToolTip": "D:\\c#games\\Use_of_dll_calculator\\Use_of_dll_calculator\\Program.cs",
+              "RelativeToolTip": "Use_of_dll_calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:01:08.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

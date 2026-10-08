@@ -1,0 +1,7 @@
+D:\c#games\exception_handling2\exception_handling2\bin\Debug\exception_handling2.exe.config
+D:\c#games\exception_handling2\exception_handling2\bin\Debug\exception_handling2.exe
+D:\c#games\exception_handling2\exception_handling2\bin\Debug\exception_handling2.pdb
+D:\c#games\exception_handling2\exception_handling2\obj\Debug\exception_handling2.csproj.AssemblyReference.cache
+D:\c#games\exception_handling2\exception_handling2\obj\Debug\exception_handling2.csproj.CoreCompileInputs.cache
+D:\c#games\exception_handling2\exception_handling2\obj\Debug\exception_handling2.exe
+D:\c#games\exception_handling2\exception_handling2\obj\Debug\exception_handling2.pdb

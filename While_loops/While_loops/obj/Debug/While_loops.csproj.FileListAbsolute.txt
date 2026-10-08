@@ -1,0 +1,7 @@
+D:\c#games\While_loops\While_loops\bin\Debug\While_loops.exe.config
+D:\c#games\While_loops\While_loops\bin\Debug\While_loops.exe
+D:\c#games\While_loops\While_loops\bin\Debug\While_loops.pdb
+D:\c#games\While_loops\While_loops\obj\Debug\While_loops.csproj.AssemblyReference.cache
+D:\c#games\While_loops\While_loops\obj\Debug\While_loops.csproj.CoreCompileInputs.cache
+D:\c#games\While_loops\While_loops\obj\Debug\While_loops.exe
+D:\c#games\While_loops\While_loops\obj\Debug\While_loops.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\File_handlings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{686D4504-BE69-4CA8-BE95-1676A0EF1B39}|File_handlings\\File_handlings.csproj|d:\\c#games\\file_handlings\\file_handlings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686D4504-BE69-4CA8-BE95-1676A0EF1B39}|File_handlings\\File_handlings.csproj|solutionrelative:file_handlings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\File_handlings\\File_handlings\\Program.cs",
+              "RelativeDocumentMoniker": "File_handlings\\Program.cs",
+              "ToolTip": "D:\\c#games\\File_handlings\\File_handlings\\Program.cs",
+              "RelativeToolTip": "File_handlings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:55:14.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

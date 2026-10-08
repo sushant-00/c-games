@@ -1,0 +1,6 @@
+D:\c#games\MyCalculatorLibrary\MyCalculatorLibrary\bin\Debug\MyCalculatorLibrary.dll
+D:\c#games\MyCalculatorLibrary\MyCalculatorLibrary\bin\Debug\MyCalculatorLibrary.pdb
+D:\c#games\MyCalculatorLibrary\MyCalculatorLibrary\obj\Debug\MyCalculatorLibrary.csproj.AssemblyReference.cache
+D:\c#games\MyCalculatorLibrary\MyCalculatorLibrary\obj\Debug\MyCalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\c#games\MyCalculatorLibrary\MyCalculatorLibrary\obj\Debug\MyCalculatorLibrary.dll
+D:\c#games\MyCalculatorLibrary\MyCalculatorLibrary\obj\Debug\MyCalculatorLibrary.pdb

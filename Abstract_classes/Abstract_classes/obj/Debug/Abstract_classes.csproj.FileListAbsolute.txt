@@ -1,0 +1,7 @@
+D:\c#games\Abstract_classes\Abstract_classes\bin\Debug\Abstract_classes.exe.config
+D:\c#games\Abstract_classes\Abstract_classes\bin\Debug\Abstract_classes.exe
+D:\c#games\Abstract_classes\Abstract_classes\bin\Debug\Abstract_classes.pdb
+D:\c#games\Abstract_classes\Abstract_classes\obj\Debug\Abstract_classes.csproj.AssemblyReference.cache
+D:\c#games\Abstract_classes\Abstract_classes\obj\Debug\Abstract_classes.csproj.CoreCompileInputs.cache
+D:\c#games\Abstract_classes\Abstract_classes\obj\Debug\Abstract_classes.exe
+D:\c#games\Abstract_classes\Abstract_classes\obj\Debug\Abstract_classes.pdb

@@ -1,0 +1,14 @@
+D:\c#games\Stringspractice\Stringspractice\bin\Debug\net10.0\Stringspractice.exe
+D:\c#games\Stringspractice\Stringspractice\bin\Debug\net10.0\Stringspractice.deps.json
+D:\c#games\Stringspractice\Stringspractice\bin\Debug\net10.0\Stringspractice.runtimeconfig.json
+D:\c#games\Stringspractice\Stringspractice\bin\Debug\net10.0\Stringspractice.dll
+D:\c#games\Stringspractice\Stringspractice\bin\Debug\net10.0\Stringspractice.pdb
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\Stringspractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\Stringspractice.AssemblyInfoInputs.cache
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\Stringspractice.AssemblyInfo.cs
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\Stringspractice.csproj.CoreCompileInputs.cache
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\Stringspractice.dll
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\refint\Stringspractice.dll
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\Stringspractice.pdb
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\Stringspractice.genruntimeconfig.cache
+D:\c#games\Stringspractice\Stringspractice\obj\Debug\net10.0\ref\Stringspractice.dll

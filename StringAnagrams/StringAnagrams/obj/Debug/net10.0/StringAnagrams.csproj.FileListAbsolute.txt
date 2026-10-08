@@ -1,0 +1,14 @@
+D:\c#games\StringAnagrams\StringAnagrams\bin\Debug\net10.0\StringAnagrams.exe
+D:\c#games\StringAnagrams\StringAnagrams\bin\Debug\net10.0\StringAnagrams.deps.json
+D:\c#games\StringAnagrams\StringAnagrams\bin\Debug\net10.0\StringAnagrams.runtimeconfig.json
+D:\c#games\StringAnagrams\StringAnagrams\bin\Debug\net10.0\StringAnagrams.dll
+D:\c#games\StringAnagrams\StringAnagrams\bin\Debug\net10.0\StringAnagrams.pdb
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\StringAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\StringAnagrams.AssemblyInfoInputs.cache
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\StringAnagrams.AssemblyInfo.cs
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\StringAnagrams.csproj.CoreCompileInputs.cache
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\StringAnagrams.dll
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\refint\StringAnagrams.dll
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\StringAnagrams.pdb
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\StringAnagrams.genruntimeconfig.cache
+D:\c#games\StringAnagrams\StringAnagrams\obj\Debug\net10.0\ref\StringAnagrams.dll

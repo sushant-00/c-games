@@ -1,0 +1,7 @@
+D:\c#games\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+D:\c#games\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\c#games\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\c#games\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+D:\c#games\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\c#games\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+D:\c#games\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

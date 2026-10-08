@@ -1,0 +1,7 @@
+D:\c#games\Default_cons_example\bin\Debug\Default_cons_example.exe.config
+D:\c#games\Default_cons_example\bin\Debug\Default_cons_example.exe
+D:\c#games\Default_cons_example\bin\Debug\Default_cons_example.pdb
+D:\c#games\Default_cons_example\obj\Debug\Default_cons_example.csproj.AssemblyReference.cache
+D:\c#games\Default_cons_example\obj\Debug\Default_cons_example.csproj.CoreCompileInputs.cache
+D:\c#games\Default_cons_example\obj\Debug\Default_cons_example.exe
+D:\c#games\Default_cons_example\obj\Debug\Default_cons_example.pdb

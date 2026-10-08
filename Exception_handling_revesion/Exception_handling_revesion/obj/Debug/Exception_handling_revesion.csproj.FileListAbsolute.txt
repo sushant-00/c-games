@@ -1,0 +1,7 @@
+D:\c#games\Exception_handling_revesion\Exception_handling_revesion\bin\Debug\Exception_handling_revesion.exe.config
+D:\c#games\Exception_handling_revesion\Exception_handling_revesion\bin\Debug\Exception_handling_revesion.exe
+D:\c#games\Exception_handling_revesion\Exception_handling_revesion\bin\Debug\Exception_handling_revesion.pdb
+D:\c#games\Exception_handling_revesion\Exception_handling_revesion\obj\Debug\Exception_handling_revesion.csproj.AssemblyReference.cache
+D:\c#games\Exception_handling_revesion\Exception_handling_revesion\obj\Debug\Exception_handling_revesion.csproj.CoreCompileInputs.cache
+D:\c#games\Exception_handling_revesion\Exception_handling_revesion\obj\Debug\Exception_handling_revesion.exe
+D:\c#games\Exception_handling_revesion\Exception_handling_revesion\obj\Debug\Exception_handling_revesion.pdb

@@ -1,0 +1,7 @@
+D:\c#games\filehandlings\filehandlings\bin\Debug\filehandlings.exe.config
+D:\c#games\filehandlings\filehandlings\bin\Debug\filehandlings.exe
+D:\c#games\filehandlings\filehandlings\bin\Debug\filehandlings.pdb
+D:\c#games\filehandlings\filehandlings\obj\Debug\filehandlings.csproj.AssemblyReference.cache
+D:\c#games\filehandlings\filehandlings\obj\Debug\filehandlings.csproj.CoreCompileInputs.cache
+D:\c#games\filehandlings\filehandlings\obj\Debug\filehandlings.exe
+D:\c#games\filehandlings\filehandlings\obj\Debug\filehandlings.pdb

@@ -1,0 +1,7 @@
+D:\c#games\FunctionExample\bin\Debug\FunctionExample.exe.config
+D:\c#games\FunctionExample\bin\Debug\FunctionExample.exe
+D:\c#games\FunctionExample\bin\Debug\FunctionExample.pdb
+D:\c#games\FunctionExample\obj\Debug\FunctionExample.csproj.AssemblyReference.cache
+D:\c#games\FunctionExample\obj\Debug\FunctionExample.csproj.CoreCompileInputs.cache
+D:\c#games\FunctionExample\obj\Debug\FunctionExample.exe
+D:\c#games\FunctionExample\obj\Debug\FunctionExample.pdb

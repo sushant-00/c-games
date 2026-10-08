@@ -1,0 +1,7 @@
+D:\c#games\FilehandlingTest\FilehandlingTest\obj\Debug\FilehandlingTest.csproj.AssemblyReference.cache
+D:\c#games\FilehandlingTest\FilehandlingTest\obj\Debug\FilehandlingTest.csproj.CoreCompileInputs.cache
+D:\c#games\FilehandlingTest\FilehandlingTest\bin\Debug\FilehandlingTest.exe.config
+D:\c#games\FilehandlingTest\FilehandlingTest\bin\Debug\FilehandlingTest.exe
+D:\c#games\FilehandlingTest\FilehandlingTest\bin\Debug\FilehandlingTest.pdb
+D:\c#games\FilehandlingTest\FilehandlingTest\obj\Debug\FilehandlingTest.exe
+D:\c#games\FilehandlingTest\FilehandlingTest\obj\Debug\FilehandlingTest.pdb

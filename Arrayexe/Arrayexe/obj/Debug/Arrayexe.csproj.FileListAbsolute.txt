@@ -1,0 +1,7 @@
+D:\c#games\Arrayexe\Arrayexe\bin\Debug\Arrayexe.exe.config
+D:\c#games\Arrayexe\Arrayexe\bin\Debug\Arrayexe.exe
+D:\c#games\Arrayexe\Arrayexe\bin\Debug\Arrayexe.pdb
+D:\c#games\Arrayexe\Arrayexe\obj\Debug\Arrayexe.csproj.AssemblyReference.cache
+D:\c#games\Arrayexe\Arrayexe\obj\Debug\Arrayexe.csproj.CoreCompileInputs.cache
+D:\c#games\Arrayexe\Arrayexe\obj\Debug\Arrayexe.exe
+D:\c#games\Arrayexe\Arrayexe\obj\Debug\Arrayexe.pdb

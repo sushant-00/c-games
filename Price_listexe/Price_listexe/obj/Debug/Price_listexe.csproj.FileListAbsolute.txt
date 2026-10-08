@@ -1,0 +1,7 @@
+D:\c#games\Price_listexe\Price_listexe\obj\Debug\Price_listexe.csproj.AssemblyReference.cache
+D:\c#games\Price_listexe\Price_listexe\obj\Debug\Price_listexe.csproj.CoreCompileInputs.cache
+D:\c#games\Price_listexe\Price_listexe\bin\Debug\Price_listexe.exe.config
+D:\c#games\Price_listexe\Price_listexe\bin\Debug\Price_listexe.exe
+D:\c#games\Price_listexe\Price_listexe\bin\Debug\Price_listexe.pdb
+D:\c#games\Price_listexe\Price_listexe\obj\Debug\Price_listexe.exe
+D:\c#games\Price_listexe\Price_listexe\obj\Debug\Price_listexe.pdb

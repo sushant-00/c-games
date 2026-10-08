@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\SinglecastProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9CC8CE-70EE-4BCF-9309-6E96CE27F424}|SinglecastProject\\SinglecastProject.csproj|d:\\c#games\\singlecastproject\\singlecastproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9CC8CE-70EE-4BCF-9309-6E96CE27F424}|SinglecastProject\\SinglecastProject.csproj|solutionrelative:singlecastproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\SinglecastProject\\SinglecastProject\\Program.cs",
+              "RelativeDocumentMoniker": "SinglecastProject\\Program.cs",
+              "ToolTip": "D:\\c#games\\SinglecastProject\\SinglecastProject\\Program.cs",
+              "RelativeToolTip": "SinglecastProject\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:40:24.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

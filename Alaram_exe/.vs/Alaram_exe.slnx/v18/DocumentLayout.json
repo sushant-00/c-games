@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\Alaram_exe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B227BB2-4E23-4FF1-93AE-068D4A5CBA6F}|Alaram_exe\\Alaram_exe.csproj|d:\\c#games\\alaram_exe\\alaram_exe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B227BB2-4E23-4FF1-93AE-068D4A5CBA6F}|Alaram_exe\\Alaram_exe.csproj|solutionrelative:alaram_exe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B227BB2-4E23-4FF1-93AE-068D4A5CBA6F}|Alaram_exe\\Alaram_exe.csproj|D:\\c#games\\Alaram_exe\\alaram_exe\\alaram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B227BB2-4E23-4FF1-93AE-068D4A5CBA6F}|Alaram_exe\\Alaram_exe.csproj|solutionrelative:alaram_exe\\alaram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alaram.cs",
+              "DocumentMoniker": "D:\\c#games\\Alaram_exe\\Alaram_exe\\Alaram.cs",
+              "RelativeDocumentMoniker": "Alaram_exe\\Alaram.cs",
+              "ToolTip": "D:\\c#games\\Alaram_exe\\Alaram_exe\\Alaram.cs",
+              "RelativeToolTip": "Alaram_exe\\Alaram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T08:33:18.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\Alaram_exe\\Alaram_exe\\Program.cs",
+              "RelativeDocumentMoniker": "Alaram_exe\\Program.cs",
+              "ToolTip": "D:\\c#games\\Alaram_exe\\Alaram_exe\\Program.cs",
+              "RelativeToolTip": "Alaram_exe\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T08:32:54.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

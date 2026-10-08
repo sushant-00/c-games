@@ -1,0 +1,7 @@
+D:\c#games\app_hello\app_hello\bin\Debug\app_hello.exe.config
+D:\c#games\app_hello\app_hello\bin\Debug\app_hello.exe
+D:\c#games\app_hello\app_hello\bin\Debug\app_hello.pdb
+D:\c#games\app_hello\app_hello\obj\Debug\app_hello.csproj.AssemblyReference.cache
+D:\c#games\app_hello\app_hello\obj\Debug\app_hello.csproj.CoreCompileInputs.cache
+D:\c#games\app_hello\app_hello\obj\Debug\app_hello.exe
+D:\c#games\app_hello\app_hello\obj\Debug\app_hello.pdb

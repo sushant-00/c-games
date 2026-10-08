@@ -1,0 +1,7 @@
+D:\c#games\StaticclasExe\bin\Debug\StaticclasExe.exe.config
+D:\c#games\StaticclasExe\bin\Debug\StaticclasExe.exe
+D:\c#games\StaticclasExe\bin\Debug\StaticclasExe.pdb
+D:\c#games\StaticclasExe\obj\Debug\StaticclasExe.csproj.AssemblyReference.cache
+D:\c#games\StaticclasExe\obj\Debug\StaticclasExe.csproj.CoreCompileInputs.cache
+D:\c#games\StaticclasExe\obj\Debug\StaticclasExe.exe
+D:\c#games\StaticclasExe\obj\Debug\StaticclasExe.pdb

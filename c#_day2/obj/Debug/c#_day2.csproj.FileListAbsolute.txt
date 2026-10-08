@@ -1,0 +1,7 @@
+D:\c#games\c#_day2\bin\Debug\c#_day2.exe.config
+D:\c#games\c#_day2\bin\Debug\c#_day2.exe
+D:\c#games\c#_day2\bin\Debug\c#_day2.pdb
+D:\c#games\c#_day2\obj\Debug\c#_day2.csproj.AssemblyReference.cache
+D:\c#games\c#_day2\obj\Debug\c#_day2.csproj.CoreCompileInputs.cache
+D:\c#games\c#_day2\obj\Debug\c#_day2.exe
+D:\c#games\c#_day2\obj\Debug\c#_day2.pdb

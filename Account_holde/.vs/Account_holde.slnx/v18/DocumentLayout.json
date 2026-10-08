@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#games\\Account_holde\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEA9927-3F28-4AFC-A885-D9661E5C2C5B}|Account_holde\\Account_holde.csproj|D:\\c#games\\Account_holde\\account_holde\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEA9927-3F28-4AFC-A885-D9661E5C2C5B}|Account_holde\\Account_holde.csproj|solutionrelative:account_holde\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEA9927-3F28-4AFC-A885-D9661E5C2C5B}|Account_holde\\Account_holde.csproj|d:\\c#games\\account_holde\\account_holde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEA9927-3F28-4AFC-A885-D9661E5C2C5B}|Account_holde\\Account_holde.csproj|solutionrelative:account_holde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "D:\\c#games\\Account_holde\\Account_holde\\Credit.cs",
+              "RelativeDocumentMoniker": "Account_holde\\Credit.cs",
+              "ToolTip": "D:\\c#games\\Account_holde\\Account_holde\\Credit.cs",
+              "RelativeToolTip": "Account_holde\\Credit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:45:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#games\\Account_holde\\Account_holde\\Program.cs",
+              "RelativeDocumentMoniker": "Account_holde\\Program.cs",
+              "ToolTip": "D:\\c#games\\Account_holde\\Account_holde\\Program.cs",
+              "RelativeToolTip": "Account_holde\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:30:34.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

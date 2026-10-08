@@ -1,0 +1,7 @@
+D:\c#games\hello_sushant\hello_sushant\bin\Debug\hello_sushant.exe.config
+D:\c#games\hello_sushant\hello_sushant\bin\Debug\hello_sushant.exe
+D:\c#games\hello_sushant\hello_sushant\bin\Debug\hello_sushant.pdb
+D:\c#games\hello_sushant\hello_sushant\obj\Debug\hello_sushant.csproj.AssemblyReference.cache
+D:\c#games\hello_sushant\hello_sushant\obj\Debug\hello_sushant.csproj.CoreCompileInputs.cache
+D:\c#games\hello_sushant\hello_sushant\obj\Debug\hello_sushant.exe
+D:\c#games\hello_sushant\hello_sushant\obj\Debug\hello_sushant.pdb
